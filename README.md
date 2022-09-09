@@ -1,15 +1,25 @@
 # <p align="center">I'm Sonia</p>
 ### <p align="center">Welcome to my Github!</p>
+<div align="center">
+  
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{sonia-c-o}/count.svg)
 
-<!-- ### <p align="center">My latest projects</p>
-<p align="center">
-  <a href="https://github.com/WEGFan/codestats-profile-readme">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />Write the repositoriys name as is for both "repo" and "alt"
-  </a>
-  <a href="https://github.com/WEGFan/codestats-profile-readme">
-    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=" alt="" />
-  </a>
-</p> -->
+</div>
+
+***
+
+<div align="center">
+
+### My latest projects
+[![Latest Project](https://github-readme-stats.vercel.app/api/pin/?username=sonia-c-o&repo=)](https://github.com/WEGFan/codestats-profile-readme) [![Second Latest Project](https://github-readme-stats.vercel.app/api/pin/?username=sonia-c-o&repo=)](https://github.com/WEGFan/codestats-profile-readme)
+<!-- Write the repository's name for both "repo" and the alternative text -->
+#### Other Projects
+[![Projects List](https://img.icons8.com/ios-filled/70/FD428E/group-of-projects.png)](https://github.com/sonia-c-o/sonia-c-o/blob/main/projects.md)  
+ 
+</div>
+
+***
 
 #### I’m currently...
 - Working on some personal projects
@@ -24,6 +34,8 @@
 <!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of .... -->
 <!-- - 🌱 &nbsp; Learning more about ... -->
 <!-- - 🤔 &nbsp; Learning new technologies and trying to develop software solutions. -->
+
+***
 
 ### 🛠 &nbsp;Tech Stack and more
 - ![Web Development](https://img.shields.io/badge/-Web_Developement-0d1117?style=for-the-badge)
@@ -80,13 +92,19 @@
   ![Debian](https://img.shields.io/badge/-Debian-A3002E?style=plastic&logo=debian)
 <br />
 
-<!-- [![Sonia's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-o&theme=radical&layout=compact) -->
-<br />
-<!-- ![Sonia's gitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-o&show_icons=true&theme=radical&line_height=27&v=57title_color=fff&icon_color=FFD700&text_color=ECECEC")](https://github.com/Neel2904) -->
-
-<p align="center">
+<div align="center">
 <!--   <a href="https://www./"><img src="https://img.icons8.com/dotty/40/FD428E/web.png" alt="Website"></a> -->
   <a href="mailto:soniaonyeukwu@zohomail.com"><img src="https://img.icons8.com/metro/40/FD428E/new-post.png" alt="Email" /></a>
 <!--   <img src="https://img.icons8.com/ios-filled/40/000000/thick-vertical-line.png"/> -->
 <!--   <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/fluency/40/FD428E/linkedin.png" alt="LinkedIn"></a> -->
-</p>
+</div>
+
+***
+<div align="center">
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-c-o&theme=radical&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonia-c-o&theme=radical&count_private=true)](https://github.com/sonia-c-o)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonia-c-o&theme=radical&text_color=ECECEC&line_height=27&v=57&show_icons=true&icon_color=FFD700")   -->
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=sonia-c-o&theme=onestar&no-frame=true&column=3&row=2) -->
+  
+</div>
