@@ -54,23 +54,29 @@
   ![React](https://img.shields.io/badge/-React-212121?style=plastic&logo=react&logoColor=6FD5DE)
   ![vue](https://img.shields.io/badge/-Vue-32475B?style=plastic&logo=vue.js)
   <br />
-<!--   &nbsp;&nbsp;![Backend](https://img.shields.io/badge/-Backend:-0d1117?style=flat-square)
+   &nbsp;&nbsp;![Backend](https://img.shields.io/badge/-Backend:-0d1117?style=flat-square)
   <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!--   ![MongoDB](https://img.shields.io/badge/-MongoDB-3E2E1E?style=plastic&logo=mongodb) -->
-<!--   ![Node.js](https://img.shields.io/badge/-NodeJS-313131?style=plastic&logo=node.js) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-3E2E1E?style=plastic&logo=mongodb)
+  ![Node.js](https://img.shields.io/badge/-NodeJS-313131?style=plastic&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=plastic&logo=express)
+
 - ![Languages](https://img.shields.io/badge/-Languages-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Python](https://img.shields.io/badge/-Python-F5DC67?style=plastic&logo=python)
 <!--   ![C++](https://img.shields.io/badge/-C++-005697?style=plastic&logo=C%2B%2B) -->
 <!--   ![Rust](https://img.shields.io/badge/-rust-C8352A?style=plastic&logo=rust) -->
+
 <!-- - ![Technical Skills](https://img.shields.io/badge/-Technical_Skills-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!--   ![Computer Networking](https://img.shields.io/badge/-Computer_Networking-F70000?style=plastic) -->
 <!--   ![Web Security](https://img.shields.io/badge/-Web_Security-F70000?style=plastic) -->
 <!--   ![HTTP and REST](https://img.shields.io/badge/-HTTP_and_REST-F70000?style=plastic) -->
+<!--   ![API Integration](https://img.shields.io/badge/-API_Integration-F70000?style=plastic) -->
+
+
 - ![Miscellaneous](https://img.shields.io/badge/-Miscellaneous-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,6 +85,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-000?style=plastic&logo=markdown)
 <!--   ![npm](https://img.shields.io/badge/-npm-8C0505?style=plastic&logo=npm) -->
 <!--   ![Bash Script](https://img.shields.io/badge/-Bash-272E35?style=plastic&logo=gnubash) -->
+
 - ![Tools](https://img.shields.io/badge/-Tools-0d1117?style=for-the-badge)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
