@@ -57,9 +57,12 @@
    &nbsp;&nbsp;![Backend](https://img.shields.io/badge/-Backend:-0d1117?style=flat-square)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-3E2E1E?style=plastic&logo=mongodb)
   ![Node.js](https://img.shields.io/badge/-NodeJS-313131?style=plastic&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=plastic&logo=express)
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-3E2E1E?style=plastic&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFAF46?style=plastic&logo=mysql)
 
 - ![Languages](https://img.shields.io/badge/-Languages-0d1117?style=for-the-badge)
   <br />
