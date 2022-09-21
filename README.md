@@ -58,11 +58,13 @@
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Node.js](https://img.shields.io/badge/-NodeJS-313131?style=plastic&logo=node.js)
+   <img src="https://img.icons8.com/external-inkubators-basic-outline-inkubators/20/FD428E/external-plus-sign-it-and-computer-inkubators-basic-outline-inkubators.png"/>
   ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=plastic&logo=express)
   <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-3E2E1E?style=plastic&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFAF46?style=plastic&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-00AFE9?style=plastic&logo=sqlite)
+<!--. ![MySQL](https://img.shields.io/badge/-MySQL-FFAF46?style=plastic&logo=mysql) -->
 
 - ![Languages](https://img.shields.io/badge/-Languages-0d1117?style=for-the-badge)
   <br />
